@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: Klaz|cff1994ffBars|r
+## Author: Klaz
+## Notes: Styles default action bars
+## OptionalDeps: LibStub, LibSharedMedia-3.0, Masque
+## IconTexture: Interface\AddOns\KlazBars\Media\KlazAddOnIcon.blp
+
+Modules\ButtonIndicators.lua
+Modules\HotKeys.lua
+Modules\MacroNames.lua
+Modules\Style.lua
