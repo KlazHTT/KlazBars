@@ -13,6 +13,10 @@ There are no in-game options. All settings are hard-coded.
     - Red = Out of range
     - Blue = Out of resources
 
+## Screenshot
+
+![](https://forge.haothitran.com/KlazHTT/KlazBars/raw/branch/main/Media/Screenshot_Example.png)
+
 ## Installation
 
 1. Backup `World of Warcraft\_retail_\Interface` and `World of Warcraft\_retail_\WTF` folders. Just in case.
